@@ -10,7 +10,7 @@ const buildOptions = {
     legalComments: 'none',
     outdir: 'httpdocs/build',
     format: 'esm',
-    external: ['/fonts/*'],
+    external: ['../fonts/*'],
 }
 
 build(buildOptions).catch(() => process.exit(1))
