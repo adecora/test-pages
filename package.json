@@ -1,0 +1,22 @@
+{
+  "name": "pages.com",
+  "version": "1.0.0",
+  "description": "Pagina de prueba de la funcionalidad github pages",
+  "license": "MIT",
+  "author": "Alejandro Varela de Cora",
+  "type": "module",
+  "main": "httpdocs/index.html",
+  "scripts": {
+    "build": "bin/build.sh",
+    "serve": "bin/serve.js"
+  },
+  "prettier": {
+    "semi": false,
+    "singleQuote": true
+  },
+  "devDependencies": {
+    "esbuild": "^0.24.0",
+    "live-server": "^1.2.2",
+    "prettier": "^3.3.3"
+  }
+}
