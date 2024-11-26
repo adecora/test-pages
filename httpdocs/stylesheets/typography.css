@@ -10,7 +10,7 @@
   font-weight: 300;
   font-display: swap;
   src: local('Merriweather Light Italic'), local('Merriweather-LightItalic'),
-    url(/fonts/Merriweather-LightItalic.woff2) format('woff2');
+    url(../fonts/Merriweather-LightItalic.woff2) format('woff2');
 }
 
 @font-face {
@@ -19,7 +19,7 @@
   font-weight: 400;
   font-display: swap;
   src: local('Merriweather Italic'), local('Merriweather-Italic'),
-    url(/fonts/Merriweather-Italic.woff2) format('woff2');
+    url(../fonts/Merriweather-Italic.woff2) format('woff2');
 }
 
 @font-face {
@@ -28,7 +28,7 @@
   font-weight: 700;
   font-display: swap;
   src: local('Merriweather Bold Italic'), local('Merriweather-BoldItalic'),
-    url(/fonts/Merriweather-BoldItalic.woff2) format('woff2');
+    url(../fonts/Merriweather-BoldItalic.woff2) format('woff2');
 }
 
 @font-face {
@@ -37,7 +37,7 @@
   font-weight: 900;
   font-display: swap;
   src: local('Merriweather Black Italic'), local('Merriweather-BlackItalic'),
-    url(/fonts/Merriweather-BlackItalic.woff2) format('woff2');
+    url(../fonts/Merriweather-BlackItalic.woff2) format('woff2');
 }
 
 @font-face {
@@ -46,7 +46,7 @@
   font-weight: 300;
   font-display: swap;
   src: local('Merriweather Light'), local('Merriweather-Light'),
-    url(/fonts/Merriweather-Light.woff2) format('woff2');
+    url(../fonts/Merriweather-Light.woff2) format('woff2');
 }
 
 @font-face {
@@ -55,7 +55,7 @@
   font-weight: 400;
   font-display: swap;
   src: local('Merriweather Regular'), local('Merriweather-Regular'),
-    url(/fonts/Merriweather-Regular.woff2) format('woff2');
+    url(../fonts/Merriweather-Regular.woff2) format('woff2');
 }
 
 @font-face {
@@ -64,7 +64,7 @@
   font-weight: 700;
   font-display: swap;
   src: local('Merriweather Bold'), local('Merriweather-Bold'),
-    url(/fonts/Merriweather-Bold.woff2) format('woff2');
+    url(../fonts/Merriweather-Bold.woff2) format('woff2');
 }
 
 @font-face {
@@ -73,7 +73,7 @@
   font-weight: 900;
   font-display: swap;
   src: local('Merriweather Black'), local('Merriweather-Black'),
-    url(/fonts/Merriweather-Black.woff2) format('woff2');
+    url(../fonts/Merriweather-Black.woff2) format('woff2');
 }
 
 /**
@@ -87,7 +87,7 @@
   font-display: swap;
   font-style: normal;
   font-named-instance: 'Regular';
-  src: url(/fonts/Inter-roman.var.woff2) format('woff2');
+  src: url(../fonts/Inter-roman.var.woff2) format('woff2');
 }
 
 @font-face {
@@ -96,7 +96,7 @@
   font-display: swap;
   font-style: italic;
   font-named-instance: 'Italic';
-  src: url(/fonts/Inter-italic.var.woff2) format('woff2');
+  src: url(../fonts/Inter-italic.var.woff2) format('woff2');
 }
 
 /**
@@ -109,5 +109,5 @@
   font-display: swap;
   font-style: normal;
   font-stretch: normal;
-  src: url(/fonts/Numbered.woff2) format('woff2');
+  src: url(../fonts/Numbered.woff2) format('woff2');
 }
